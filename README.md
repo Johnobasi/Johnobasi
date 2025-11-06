@@ -21,8 +21,8 @@ I'm a passionate software engineer specializing in building robust and scalable 
 
 ### 📈 GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)](https://github.com/your-github-username)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default)](https://github.com/your-github-username)
+[![Johnobasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnobasi&show_icons=true&theme=default)](https://github.com/Johnobasi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnobasi&layout=compact&theme=default)](https://github.com/Johnobasi)
 
 ---
 
