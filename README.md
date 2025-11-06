@@ -1,4 +1,5 @@
 Hi there, I'm John! 👋
+
 C# & .NET Developer | Backend Specialist | Cloud Enthusiast
 
 I'm a passionate software engineer specializing in building robust and scalable backend systems with the .NET ecosystem. I love tackling complex problems and turning ideas into efficient, well-architected code.
